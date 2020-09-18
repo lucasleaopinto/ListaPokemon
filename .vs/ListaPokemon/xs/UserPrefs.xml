@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{1304566C-B93B-44FA-8AA3-AD1C24386C0A}|Default">
+  <MonoDevelop.Ide.ItemProperties.ListaPokemon.Android PreferredExecutionTarget="Android.Nexus_6" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ListaPokemon/App.xaml.cs">
+    <Files>
+      <File FileName="ListaPokemon/MainPage.xaml.cs" Line="37" Column="87" />
+      <File FileName="ListaPokemon/MainPage.xaml" />
+      <File FileName="ListaPokemon/Pokemon.cs" />
+      <File FileName="ListaPokemon.iOS/Main.cs" Line="1" Column="1" />
+      <File FileName="ListaPokemon/App.xaml.cs" Line="20" Column="42" />
+      <File FileName="ListaPokemon.Android/Resources/drawable/button_style.xml" Line="2" Column="1" />
+      <File FileName="../../../../Library/Frameworks/Mono.framework/External/xbuild/Xamarin/Android/Xamarin.Android.Aapt2.targets" Line="161" Column="3" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ListaPokemon" expanded="True">
+            <Node name="ListaPokemon" expanded="True">
+              <Node name="App.xaml" expanded="True">
+                <Node name="App.xaml.cs" selected="True" />
+              </Node>
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+            <Node name="ListaPokemon.Android" expanded="True">
+              <Node name="Resources" expanded="True">
+                <Node name="drawable" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="ListaPokemon.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ListaPokemon.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget." />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/lucaspinto/Projects/ListaPokemon/ListaPokemon/MainPage.xaml" relfile="ListaPokemon/MainPage.xaml" line="7" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

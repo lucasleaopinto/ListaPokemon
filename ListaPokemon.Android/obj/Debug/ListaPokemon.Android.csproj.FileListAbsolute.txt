@@ -1,0 +1,7 @@
+/Users/lucaspinto/Projects/ListaPokemon/ListaPokemon.Android/obj/Debug/MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+/Users/lucaspinto/Projects/ListaPokemon/ListaPokemon.Android/obj/Debug/build.props
+/Users/lucaspinto/Projects/ListaPokemon/ListaPokemon.Android/obj/Debug/adb.props
+/Users/lucaspinto/Projects/ListaPokemon/ListaPokemon.Android/obj/Debug/ListaPokemon.Android.csprojAssemblyReference.cache
+/Users/lucaspinto/Projects/ListaPokemon/ListaPokemon.Android/obj/Debug/_VerifyXamarinAndroidSupportVersions.stamp
+/Users/lucaspinto/Projects/ListaPokemon/ListaPokemon.Android/obj/Debug/stamp/_BuildLibraryImportsCache.stamp
+/Users/lucaspinto/Projects/ListaPokemon/ListaPokemon.Android/obj/Debug/res.flag

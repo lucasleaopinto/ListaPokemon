@@ -1,0 +1,14 @@
+/Users/lucaspinto/Projects/ListaPokemon/ListaPokemon/bin/Debug/netstandard2.0/ListaPokemon.deps.json
+/Users/lucaspinto/Projects/ListaPokemon/ListaPokemon/bin/Debug/netstandard2.0/ListaPokemon.dll
+/Users/lucaspinto/Projects/ListaPokemon/ListaPokemon/bin/Debug/netstandard2.0/ref/ListaPokemon.dll
+/Users/lucaspinto/Projects/ListaPokemon/ListaPokemon/bin/Debug/netstandard2.0/ListaPokemon.pdb
+/Users/lucaspinto/Projects/ListaPokemon/ListaPokemon/obj/Debug/netstandard2.0/ListaPokemon.csprojAssemblyReference.cache
+/Users/lucaspinto/Projects/ListaPokemon/ListaPokemon/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/lucaspinto/Projects/ListaPokemon/ListaPokemon/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/lucaspinto/Projects/ListaPokemon/ListaPokemon/obj/Debug/netstandard2.0/ListaPokemon.AssemblyInfoInputs.cache
+/Users/lucaspinto/Projects/ListaPokemon/ListaPokemon/obj/Debug/netstandard2.0/ListaPokemon.AssemblyInfo.cs
+/Users/lucaspinto/Projects/ListaPokemon/ListaPokemon/obj/Debug/netstandard2.0/ListaPokemon.csproj.CoreCompileInputs.cache
+/Users/lucaspinto/Projects/ListaPokemon/ListaPokemon/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/lucaspinto/Projects/ListaPokemon/ListaPokemon/obj/Debug/netstandard2.0/ListaPokemon.dll
+/Users/lucaspinto/Projects/ListaPokemon/ListaPokemon/obj/Debug/netstandard2.0/ref/ListaPokemon.dll
+/Users/lucaspinto/Projects/ListaPokemon/ListaPokemon/obj/Debug/netstandard2.0/ListaPokemon.pdb
